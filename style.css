@@ -1,0 +1,19 @@
+h3{
+    font-size: 25px !important;
+    color: black !important;
+}
+canvas{
+    border: 4px black solid;
+}
+
+.footer{
+    color:yellow;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color:red ;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
